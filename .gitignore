@@ -211,3 +211,5 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 OSCADSharp/NDependOut/
+js/app.js
+js/app.js.map
